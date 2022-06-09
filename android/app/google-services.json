@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283642890973",
+    "project_id": "covid19-app-childs",
+    "storage_bucket": "covid19-app-childs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283642890973:android:f862fa7b7328067bdba934",
+        "android_client_info": {
+          "package_name": "com.example.covid_19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283642890973-3o1or4j624p5epr46m89l37dfs378ifs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZazWhMvny_U_naSmHPfE0QXKLmVKfpKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283642890973-3o1or4j624p5epr46m89l37dfs378ifs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
