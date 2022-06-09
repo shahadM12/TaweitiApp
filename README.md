@@ -1,16 +1,17 @@
 # covid_19
 
-A new Flutter project.
-
 ## Getting Started
+At first, the user has to download (Visual Studio Code) from the link https://code.visualstudio.com/
 
-This project is a starting point for a Flutter application.
+Also, download (Python) from 
+the link
+https://www.python.org/
 
-A few resources to get you started if this is your first Flutter project:
+    Then download flutter from https://flutter.dev/
+    Version (2.12.0-4.1)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Finally download (Android Studio) and (SDK Tools) from https://developer.android.com/studio?
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Now you can run our code and use our app by flutter.
+
+
